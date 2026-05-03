@@ -6,15 +6,6 @@ Temper is a versatile Discord bot designed to enhance voice communication within
 
 - GitHub: [SD-pro-cool](https://github.com/SD-pro-cool)
 
-## Highlights
-
-- Discord bot with moderation, utility, music, fun, and management systems
-- Zenith dashboard for guild configuration and live status views
-- Shared config between bot commands and dashboard controls
-- AutoMod, Anti-Nuke, logs, command center, docs, and music monitoring
-- MongoDB-backed data storage
-- Lavalink-based music system
-
 ## Showcase
 
 ![img 1](attach/img-1.PNG)
