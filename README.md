@@ -1,4 +1,4 @@
-# Pogy Bot
+# Temper bot
 
 Temper is a versatile Discord bot designed to enhance voice communication within your server. Its primary function is to create private voice channels (VCs) for exclusive conversations among members. What sets Temper apart is the level of control it grants to users within these private VCs. Members with access to a private VC gain the ability to manage it effectively, with options to kick or ban users from the channel, rename the VC to suit their needs, and access a range of additional moderation and customization features. This empowers users to tailor their private communication spaces to their specific preferences and requirements, fostering a more engaging and personalized Discord experience.
 
